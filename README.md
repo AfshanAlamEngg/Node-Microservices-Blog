@@ -30,16 +30,16 @@ The application is divided into three main components:
 
 ### Prerequisites
 
-- Node.js (v14 or later)
-- npm (v6 or later)
+- Node.js (v20 or later)
+- npm (v10 or later)
 - Docker (optional, for containerized deployment)
 
 ### Steps
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/blog-application.git
-    cd blog-application
+    git clone https://github.com/AfshanAlamEngg/Node-Microservices-Blog
+    cd Node-Microservices-Blog
     ```
 
 2. Install dependencies for each service:
